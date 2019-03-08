@@ -7,8 +7,8 @@
 > about Unity games. In this project,  
 > at the beginning, exists 
 > three levels with different
->  kind of difficulty, design for helping me
-> to improve my skills .
+>  kind of difficulty,
+> meant to challenge the player.
 
 
 
